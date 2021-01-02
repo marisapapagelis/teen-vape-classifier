@@ -9,3 +9,9 @@ The purpose of our project is to analyzes the factors contributing to teen vape 
 
 ## About
 This was a final project for our Applied Data Analysis and Statistical Inference course at Wellesley College (Fall 2019).
+
+## Repository Contents 
+
+* TeenVape.R - All of the code used for our analysis. 
+* Teen Vape Paper.pdf - The final paper for our project. 
+* Teen Vape Poster Slide 1.pdf - The poster for our final presentation. 
